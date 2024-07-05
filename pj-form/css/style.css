@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    font-family: "Dosis", sans-serif;
+}
+
+body{
+    background-image: url(/img/fundo\ form.jpg);
+    
+}
+
+h1,h2,h3,h4,h5{
+    color: black;
+}
+
+p,label{
+    color:black;
+}
+
+input{
+    border:none;
+    border-bottom:1px solid #4c4c4c;
+    padding: 18px 0;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="file"],
+textarea
+{
+    width: 400px;
+}
+
+textarea{
+    padding: 10px 5px;
+}
+
+.header h3{
+   color: rgb(255, 255, 255);
+   margin-top: 0;
+}
+
+.form-container{
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    width: 60%;
+    margin: 0 auto;
+    top: -62px;
+}
+
+.form-header{
+    border-bottom: 1px solid #fff;
+    height: 45px;
+}
+
+.form-header p{
+    color: #000000;
+    border-bottom: 2px solid rgba(4, 119, 235, 0.4);
+    width: 200px;
+    text-align:center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    height: 45px;
+    line-height: 45px;
+    font-size: large;
+}
+
+.form-body{
+    padding: 30px;
+}
+
+.form-title{
+    margin-bottom: 15px;
+}
+
+.form-body p{
+    color: black;
+    margin-bottom: 25px;
+}
+
+.required-field{
+    color: red;
+}
+
+.box-input{
+    margin-bottom: 35px;
+}
+
+.block{
+    display: block;
+}
+
+.optional_box{
+    display: inline-block;
+    margin: 0 30px 30px 0;
+}
+
+.optional-list li{
+    list-style: none;
+}
+
+.box-input p {
+ margin-bottom: 15px;
+}
+
+.tm{
+    font-size: 20px;
+}
+
+.btn-submit{
+   background-color: rgb(179, 185, 255);
+   border-radius: 10px;
+   border-bottom: 20px;
+   width:45px;
+}
