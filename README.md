@@ -3,8 +3,9 @@ Praticar a construção de formulários HTML, a organização de elementos na p�
 Tecnologias:
 HTML5
 CSS3
-Aprendizados
-Estruturação de formulários.
-Utilização de campos de entrada e elementos de seleção.
-Organização e semântica do HTML.
-Estilização e personalização visual com CSS.
+
+Aprendizados:
+Estruturação de formulários
+Utilização de campos de entrada e elementos de seleção
+Organização e semântica do HTML
+Estilização e personalização visual com CSS
